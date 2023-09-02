@@ -1,0 +1,2 @@
+@openzeppelin/=node_modules/@openzeppelin/
+@narya-ai/=node_modules/@narya-ai/contracts/
